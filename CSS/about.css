@@ -1,0 +1,14 @@
+.today{
+    color: red;
+}
+@media only screen and (max-width: 500px){
+    .today{
+        color: rgb(76, 0, 255);
+    } 
+}
+
+    @media only screen and (max-width: 300px){
+        .today{
+            color: rgb(0, 255, 42);
+        }   
+}
